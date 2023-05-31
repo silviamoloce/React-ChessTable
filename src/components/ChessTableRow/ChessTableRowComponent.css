@@ -1,0 +1,14 @@
+
+.rand{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.rand-reversed{
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+}
+
+

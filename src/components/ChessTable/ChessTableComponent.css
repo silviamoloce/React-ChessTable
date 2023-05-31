@@ -1,0 +1,6 @@
+.tabla {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-width: 800px;
+  }
